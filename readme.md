@@ -1,6 +1,6 @@
 # Grammar Error Correction with FLAN-T5 Models
 
-This repository contains implementations and experiments for grammar error correction using FLAN-T5 models. The project focuses on fine-tuning FLAN-T5 models for grammatical error correction and includes an optimized version using ONNX Runtime for faster inference.
+This repository contains implementations and experiments for grammar error correction using FLAN-T5 models. The project focuses on fine-tuning FLAN-T5 models for grammatical error correction.
 
 ## Models
 
